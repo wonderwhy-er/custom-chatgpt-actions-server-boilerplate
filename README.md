@@ -6,12 +6,13 @@
 
 - [x] What are actions?
 
-- [ ] Server Commander Custom GPT project, what it includes and how it works
+- [x] Server Commander Custom GPT project, what it includes and how it works
 
-- [ ] Goal 1: Extract minimal boiler plate in to separate GitHub repo. Aka Hello World for CustomGPTs actions
+- [x] Goal 1: Extract minimal boiler plate in to separate GitHub repo. Aka Hello World for CustomGPTs actions
 - [ ] 1.1 Add PM2 to dev dependecnies
 - [ ] Check auth token generation cryptography
 
+- [ ] make a good readme
 
 - [ ] Stretch Goal 2: YouTube transcript extractor to Custom GPT
 
