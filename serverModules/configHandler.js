@@ -51,7 +51,7 @@ function getConfig() {
             }
         ]).then(answers => {
             // Generate authorization token
-            const authToken = crypto.randomBytes(16).toString('hex');
+            const authToken = crypto.randomBytes(32).toString('hex');
 
             // Create config object
             const config = {
