@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node main.js",
     "debug": "node --inspect-brk main.js",
-    "dev": "pm2 start main.js"
   },
   "keywords": [],
   "author": "",
