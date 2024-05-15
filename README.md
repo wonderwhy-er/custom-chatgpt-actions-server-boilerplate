@@ -2,9 +2,9 @@
 
 # Hackaton live stream plan
 
-- [ ] What are CustomGPTs? Example of YouTube Summarisation
+- [x] What are CustomGPTs? Example of YouTube Summarisation
 
-- [ ] What are actions?
+- [x] What are actions?
 
 - [ ] Server Commander Custom GPT project, what it includes and how it works
 
